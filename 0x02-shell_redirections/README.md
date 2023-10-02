@@ -1,2 +1,2 @@
 #!/bin/bash
-Using echo to write a script
+Using echo to write a script\n
