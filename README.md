@@ -1,2 +1,2 @@
 #!/bin/bash
-alx shell projects\n
+alx shell projects
