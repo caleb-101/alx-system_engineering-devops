@@ -1,2 +1,2 @@
 #!/bin/bash
-for dir in dir1 dir2 dir3; do chmod 755 "$dir"; done
+find . -type d -exec chmod 755 {} + -o -type f -exec chmod a-x {} +
