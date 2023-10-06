@@ -1,0 +1,1 @@
+#this project covers the basics of shell permissions
